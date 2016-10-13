@@ -8,4 +8,6 @@ My Markdown is as fluent as my up tick
 
 *Emphasize* _emphasize_
 **Strong** __Strong__
+Markdown converts text to HTML.
 
+*[HTML]: HyperText Markup Language
